@@ -1,0 +1,179 @@
+
+		时间：Thu Jun 04 2020 14:59:15 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 14:59:35 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:00:21 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:06:57 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:08:16 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:24:50 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:24:56 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:25:31 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:25:40 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:30:36 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:30:50 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+		时间：Thu Jun 04 2020 15:30:58 GMT+0800 (GMT+08:00)
+		错误名：SyntaxError
+		错误消息：Unexpected token n in JSON at position 1
+		错误堆栈：SyntaxError: Unexpected token n in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at C:\Users\Administrator\Desktop\nodeEdu\app-middleware-404.js:9:19
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\layer.js:95:5)
+    at C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:335:12)
+    at next (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\router\index.js:275:10)
+    at expressInit (C:\Users\Administrator\Desktop\nodeEdu\node_modules\_express@4.17.1@express\lib\middleware\init.js:40:5)
+	==================
+	时间：Thu Jun 04 2020 16:27:15 GMT+0800 (GMT+08:00)
+	===
+	错误名：Error
+	===
+	错误消息：ENOENT: no such file or directory, open 'C:\Users\Administrator\Desktop\nodeEdu\dn'
+	===
+	错误堆栈：Error: ENOENT: no such file or directory, open 'C:\Users\Administrator\Desktop\nodeEdu\dn'
+	==================
+
